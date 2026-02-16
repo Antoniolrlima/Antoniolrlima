@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Olá! Eu sou o António Lima. Apaixonado por tecnologia. Focado em Backend | Frontend.  Sobre mim: Gosto de construir soluções escaláveis. Tecnologias & Ferramentas Linguagens: JavaScript | Python | Java | C# Frameworks & Libs: React | Node.js | Express | Django | Spring. Banco de Dados: PostgreSQL | MongoDB | MySQL Outros: | Git | Linux.
+Olá! Eu sou o António Lima. Apaixonado por tecnologia. Focado em Backend | Frontend.  Sobre mim: Gosto de construir soluções escaláveis. Tecnologias & Ferramentas Linguagens: JavaScript | Python | Java | C# Frameworks & Libs: React | Node.js | Express | Django | Spring. Banco de Dados: PostgreSQL | MongoDB | MySQL Outros: | Git | Linux.
 
 <!--
 **Antoniolrlima/Antoniolrlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
